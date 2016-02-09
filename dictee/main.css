@@ -1,0 +1,33 @@
+.center-block {
+    display: block;
+    margin-top: 5%;
+    margin-right: auto;
+    margin-left: 25%;
+}
+
+#rightModal {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    margin-top: -26px;
+    margin-left: -300px;
+    padding: 20px;
+}
+
+#tryAgainModal {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    margin-top: -26px;
+    margin-left: -300px;
+    padding: 20px;
+}
+
+img{
+	padding: 10px;
+}
+
+h4{
+	font-size: 26px;
+    text-align: center;
+}
