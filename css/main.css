@@ -1,0 +1,32 @@
+html,
+body {
+	padding: 0;
+	margin: 0;
+}
+body {
+	background-color: #D3D3D3;
+}
+.container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+    justify-content: center;
+}
+.img-top{
+	width: 75%;
+}
+.contact {
+	margin-top: 10%;
+	max-width: 7%;
+}
+.link {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+.logo {
+	width: 55%;
+	height: auto;
+	margin-top: 200px;
+}
